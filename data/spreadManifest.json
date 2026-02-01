@@ -1,0 +1,38 @@
+{
+  "ppf": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/ppf.txt",
+    "positions": ["past", "present", "future_directional"]
+  },
+  "pphao": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/pphao.txt",
+    "positions": ["past", "present", "hidden_issues", "advice", "outcome"]
+  },
+  "kdk": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/kdk.txt",
+    "positions": ["what_i_know", "what_i_dont_know", "what_i_need_to_know"]
+  },
+  "gsbbl": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/gsbbl.txt",
+    "positions": ["goal", "status", "block", "bridge", "lesson"]
+  },
+  "fml": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/fml.txt",
+    "positions": ["focus", "moving_forward", "letting_go"]
+  },
+  "this-or-that": {
+    "type":"fixed",
+    "spreadPath": "knowledge/spreads/tot.txt",
+    "positions": ["focus", "option_a_pro", "option_a_con", "option_b_pro", "option_b_con"]
+  },
+  "horoscope": {
+  "type": "horoscope",
+  "spreadPath": "knowledge/spreads/horoscope.txt",
+  "supportingPaths": ["knowledge/spreads/horoscope_zodiac_logic.txt"]
+}
+
+}

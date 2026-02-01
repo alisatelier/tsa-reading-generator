@@ -6,7 +6,7 @@
   
   "scripts": {
     "manifests:build": "node scripts/manifests/buildManifests.js",
-    "manifests:tarot": "node scripts/manifests/buildTarotManifest.js"
+    "manifests:tarot": "node scripts/manifests/buildTarotManifest.js",
     "dev": "node src/server.js"
   },
 

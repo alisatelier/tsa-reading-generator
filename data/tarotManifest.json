@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-01T09:14:08.050Z",
+  "knowledgeRoot": "knowledge",
+  "cardsById": {
+    "0": {
+      "cardPath": "knowledge/cards/00_the_one.txt"
+    },
+    "1": {
+      "cardPath": "knowledge/cards/01_the_enchanter.txt"
+    },
+    "2": {
+      "cardPath": "knowledge/cards/02_the_enchantress.txt"
+    },
+    "3": {
+      "cardPath": "knowledge/cards/03_the_great_mother.txt"
+    },
+    "4": {
+      "cardPath": "knowledge/cards/04_the_great_father.txt"
+    },
+    "5": {
+      "cardPath": "knowledge/cards/05_the_sage.txt"
+    },
+    "6": {
+      "cardPath": "knowledge/cards/06_the_beloved.txt"
+    },
+    "7": {
+      "cardPath": "knowledge/cards/07_the_marionette.txt"
+    },
+    "8": {
+      "cardPath": "knowledge/cards/08_lady_leo.txt"
+    },
+    "9": {
+      "cardPath": "knowledge/cards/09_the_pearl.txt"
+    },
+    "10": {
+      "cardPath": "knowledge/cards/10_the_fates.txt"
+    },
+    "11": {
+      "cardPath": "knowledge/cards/11_the_scales.txt"
+    },
+    "12": {
+      "cardPath": "knowledge/cards/12_the_mime.txt"
+    },
+    "13": {
+      "cardPath": "knowledge/cards/13_birth.txt"
+    },
+    "14": {
+      "cardPath": "knowledge/cards/14_spellcasting.txt"
+    },
+    "15": {
+      "cardPath": "knowledge/cards/15_vices.txt"
+    },
+    "16": {
+      "cardPath": "knowledge/cards/16_the_fortress.txt"
+    },
+    "17": {
+      "cardPath": "knowledge/cards/17_healing.txt"
+    },
+    "18": {
+      "cardPath": "knowledge/cards/18_illusion.txt"
+    },
+    "19": {
+      "cardPath": "knowledge/cards/19_soul.txt"
+    },
+    "20": {
+      "cardPath": "knowledge/cards/20_awakening.txt"
+    },
+    "21": {
+      "cardPath": "knowledge/cards/21_the_universe.txt"
+    },
+    "22": {
+      "cardPath": "knowledge/cards/22_one_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/one.txt"
+    },
+    "23": {
+      "cardPath": "knowledge/cards/23_two_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/two.txt"
+    },
+    "24": {
+      "cardPath": "knowledge/cards/24_three_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/three.txt"
+    },
+    "25": {
+      "cardPath": "knowledge/cards/25_four_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/four.txt"
+    },
+    "26": {
+      "cardPath": "knowledge/cards/26_five_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/five.txt"
+    },
+    "27": {
+      "cardPath": "knowledge/cards/27_six_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/six.txt"
+    },
+    "28": {
+      "cardPath": "knowledge/cards/28_seven_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/seven.txt"
+    },
+    "29": {
+      "cardPath": "knowledge/cards/29_eight_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/eight.txt"
+    },
+    "30": {
+      "cardPath": "knowledge/cards/30_nine_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/nine.txt"
+    },
+    "31": {
+      "cardPath": "knowledge/cards/31_ten_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/ten.txt"
+    },
+    "32": {
+      "cardPath": "knowledge/cards/32_one_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/one.txt"
+    },
+    "33": {
+      "cardPath": "knowledge/cards/33_two_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/two.txt"
+    },
+    "34": {
+      "cardPath": "knowledge/cards/34_three_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/three.txt"
+    },
+    "35": {
+      "cardPath": "knowledge/cards/35_four_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/four.txt"
+    },
+    "36": {
+      "cardPath": "knowledge/cards/36_five_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/five.txt"
+    },
+    "37": {
+      "cardPath": "knowledge/cards/37_six_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/six.txt"
+    },
+    "38": {
+      "cardPath": "knowledge/cards/38_seven_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/seven.txt"
+    },
+    "39": {
+      "cardPath": "knowledge/cards/39_eight_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/eight.txt"
+    },
+    "40": {
+      "cardPath": "knowledge/cards/40_nine_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/nine.txt"
+    },
+    "41": {
+      "cardPath": "knowledge/cards/41_ten_of_tears.txt",
+      "suitPath": "knowledge/minorArcana/suits/tears.txt",
+      "pipPath": "knowledge/minorArcana/pips/ten.txt"
+    },
+    "42": {
+      "cardPath": "knowledge/cards/42_one_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/one.txt"
+    },
+    "43": {
+      "cardPath": "knowledge/cards/43_two_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/two.txt"
+    },
+    "44": {
+      "cardPath": "knowledge/cards/44_three_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/three.txt"
+    },
+    "45": {
+      "cardPath": "knowledge/cards/45_four_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/four.txt"
+    },
+    "46": {
+      "cardPath": "knowledge/cards/46_five_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/five.txt"
+    },
+    "47": {
+      "cardPath": "knowledge/cards/47_six_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/six.txt"
+    },
+    "48": {
+      "cardPath": "knowledge/cards/48_seven_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/seven.txt"
+    },
+    "49": {
+      "cardPath": "knowledge/cards/49_eight_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/eight.txt"
+    },
+    "50": {
+      "cardPath": "knowledge/cards/50_nine_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/nine.txt"
+    },
+    "51": {
+      "cardPath": "knowledge/cards/51_ten_of_soil.txt",
+      "suitPath": "knowledge/minorArcana/suits/soil.txt",
+      "pipPath": "knowledge/minorArcana/pips/ten.txt"
+    },
+    "52": {
+      "cardPath": "knowledge/cards/52_one_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/one.txt"
+    },
+    "53": {
+      "cardPath": "knowledge/cards/53_two_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/two.txt"
+    },
+    "54": {
+      "cardPath": "knowledge/cards/54_three_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/three.txt"
+    },
+    "55": {
+      "cardPath": "knowledge/cards/55_four_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/four.txt"
+    },
+    "56": {
+      "cardPath": "knowledge/cards/56_five_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/five.txt"
+    },
+    "57": {
+      "cardPath": "knowledge/cards/57_six_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/six.txt"
+    },
+    "58": {
+      "cardPath": "knowledge/cards/58_seven_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/seven.txt"
+    },
+    "59": {
+      "cardPath": "knowledge/cards/59_eight_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/eight.txt"
+    },
+    "60": {
+      "cardPath": "knowledge/cards/60_nine_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/nine.txt"
+    },
+    "61": {
+      "cardPath": "knowledge/cards/61_ten_of_whispers.txt",
+      "suitPath": "knowledge/minorArcana/suits/whispers.txt",
+      "pipPath": "knowledge/minorArcana/pips/ten.txt"
+    }
+  },
+  "cardsByCanonicalName": {
+    "the one": "0",
+    "the enchanter": "1",
+    "the enchantress": "2",
+    "the great mother": "3",
+    "the great father": "4",
+    "the sage": "5",
+    "the beloved": "6",
+    "the marionette": "7",
+    "lady leo": "8",
+    "the pearl": "9",
+    "the fates": "10",
+    "the scales": "11",
+    "the mime": "12",
+    "birth": "13",
+    "spellcasting": "14",
+    "vices": "15",
+    "the fortress": "16",
+    "healing": "17",
+    "illusion": "18",
+    "soul": "19",
+    "awakening": "20",
+    "the universe": "21",
+    "one of sparks": "22",
+    "two of sparks": "23",
+    "three of sparks": "24",
+    "four of sparks": "25",
+    "five of sparks": "26",
+    "six of sparks": "27",
+    "seven of sparks": "28",
+    "eight of sparks": "29",
+    "nine of sparks": "30",
+    "ten of sparks": "31",
+    "one of tears": "32",
+    "two of tears": "33",
+    "three of tears": "34",
+    "four of tears": "35",
+    "five of tears": "36",
+    "six of tears": "37",
+    "seven of tears": "38",
+    "eight of tears": "39",
+    "nine of tears": "40",
+    "ten of tears": "41",
+    "one of soil": "42",
+    "two of soil": "43",
+    "three of soil": "44",
+    "four of soil": "45",
+    "five of soil": "46",
+    "six of soil": "47",
+    "seven of soil": "48",
+    "eight of soil": "49",
+    "nine of soil": "50",
+    "ten of soil": "51",
+    "one of whispers": "52",
+    "two of whispers": "53",
+    "three of whispers": "54",
+    "four of whispers": "55",
+    "five of whispers": "56",
+    "six of whispers": "57",
+    "seven of whispers": "58",
+    "eight of whispers": "59",
+    "nine of whispers": "60",
+    "ten of whispers": "61"
+  }
+}
