@@ -1,0 +1,42 @@
+SPREAD KEY: horoscope
+SPREAD NAME: Horoscope / Year-Ahead (Dynamic Zodiac Start)
+
+Purpose:
+- A 12-card “zodiac wheel” reading that shows the themes and growth edges across the next 12 sign-seasons,
+  starting from the zodiac season you are currently in.
+- This is directional, not fate: it shows patterns, opportunities, and what to focus on.
+
+Positions (dynamic):
+- This spread always uses 12 cards total.
+- Position #1 is the zodiac sign/season of the date the reading is pulled.
+- Each next position moves forward through the zodiac in order, wrapping around after Pisces.
+
+Zodiac order (fixed):
+Aries → Taurus → Gemini → Cancer → Leo → Virgo → Libra → Scorpio → Sagittarius → Capricorn → Aquarius → Pisces → (back to Aries)
+
+Dynamic mapping rules:
+1) Start Sign
+- Determine the zodiac sign/season for the pull date.
+- That sign becomes Position #1.
+
+2) Sequence
+- Position #2 is the next sign after the Start Sign.
+- Continue forward until you have 12 positions total.
+
+Position meaning (applies to every sign position):
+For each sign/season card, interpret:
+- Theme: the main energetic lesson of this season
+- Focus: what part of life wants attention or movement
+- Support: what helps you thrive in this season (a practical step)
+- Watch-out: a common pitfall or overcorrection to avoid (gentle, not scary)
+
+How to conclude:
+- Identify 2–4 repeating themes across the 12 cards.
+- Name 1–3 “anchors” (habits, boundaries, or practices) that support the whole year-ahead cycle.
+- End with one journal prompt and one affirmation.
+
+Rules:
+- Never speak in absolutes. This is guidance, not fate.
+- Keep astrology references simple and readable (no heavy jargon unless requested).
+- Offer agency and choice: “If you choose X, you may experience Y.”
+- Keep it grounded: practical actions, self-responsibility, and emotional clarity.

@@ -1,0 +1,27 @@
+CARD ID: 53
+CANONICAL TSA NAME (always use this name in the reading): Two of Whispers
+RWS EQUIVALENT (reference only; do not replace TSA name): Two of Swords
+SUIT: Whispers
+PIP: Two
+
+NAMING RULE:
+- In all writing outputs, call this card "Two of Whispers".
+
+HOW TO READ THIS CARD (UPRIGHT):
+1) Start with Whispers: decisions, perception, communication, inner conflict.
+2) Add Two (Choices): intuition will guide the way.
+3) Translate: a decision is being weighed; information may be incomplete, but inner knowing can still guide.
+4) Practical step: choose your decision criteria (values + evidence) and make a small commitment to one path.
+
+HOW TO READ THIS CARD (REVERSED):
+1) Keep Whispers domain.
+2) Use Two (Reversed): indecision; blocking the path’s potential.
+3) Name the friction: avoiding discomfort, hoping the choice will disappear, or waiting for perfect certainty.
+4) Correction: decide what you need to know, set a deadline, and take the next best step.
+
+QUICK SIGNALS:
+- Supportive: calm discernment; balanced thinking; a thoughtful choice.
+- Challenging: decision paralysis; avoidance; internal stalemate.
+
+JOURNAL PROMPT:
+- What choice becomes obvious when I stop trying to avoid the discomfort it brings?

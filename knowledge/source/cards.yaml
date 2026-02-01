@@ -1,0 +1,175 @@
+ -id: 0
+  tsa_title: "The One"
+  rws_title: "The Fool"
+  element: "Air"
+  upright: "The Start of a Journey. Bravely Facing the Unknown. Having Faith in One’s Path."
+  reversed: "Reluctance. Hesitation to Begin. Waffling. Weighing the Risks."
+  keywords: []
+
+- id: 1
+  tsa_title: "The Enchanter"
+  rws_title: "The Magician"
+  element: "Air"
+  upright: "Abundance in Aptitude. The Magic Within. Inner Genius. Resourcefulness."
+  reversed: "Dormant Abilities. Unable to See One’s Potential. Becoming Hoodwinked."
+  keywords: []
+
+- id: 2
+  tsa_title: "The Enchantress"
+  rws_title: "The High Priestess"
+  element: "Water"
+  upright: "Secrets Revealed. Igniting One’s Intuitive Gifts. Seeing Clearly."
+  reversed: "Being Lead Astray. Ignoring the Inner Voice. Asking for Validation."
+  keywords: []
+
+- id: 3
+  tsa_title: "The Great Mother"
+  rws_title: "The Empress"
+  element: "Earth"
+  upright: "Fertility (Moon Cycle). Harvest (Sun Cycle). Earth Mother Energy. Patience."
+  reversed: "Smothering. Wrath at Loss. Domestic Upheaval."
+  keywords: []
+
+- id: 4
+  tsa_title: "The Great Father"
+  rws_title: "The Emperor"
+  element: "Fire"
+  upright: "Fair and Just Rule. Leading by Example. Code of Honour."
+  reversed: "Tyranny. Excessive Need for Control. Time to Abdicate."
+  keywords: []
+
+- id: 5
+  tsa_title: "The Sage"
+  rws_title: "The Hierophant"
+  element: "Earth"
+  upright: "Learning to Teach. Eternal Wisdom. Ancestors to Descendants."
+  reversed: "Blindly Following. Independence Over Community. Powertrips."
+  keywords: []
+
+- id: 6
+  tsa_title: "The Beloved"
+  rws_title: "The Lovers"
+  element: "Air"
+  upright: "Following Desires. Choosing to Change Paths. Affection Beyond Romance. "
+  reversed: "Elusive Obtainment. Hoops to Jump Through. Dependency."
+  keywords: []
+
+- id: 7
+  tsa_title: "The Marionette"
+  rws_title: "The Chariot"
+  element: "Water"
+  upright: "Claiming Your Direction. Maintaining Control of Moving Parts. Willpower."
+  reversed: "Tripping Up. Paralysis. Unfavourable Cascades."
+  keywords: []
+
+- id: 8
+  tsa_title: "Lady Leo"
+  rws_title: "Strength"
+  element: "Fire"
+  upright: "Confidence. Taming Your Fears. Claiming Your Courage."
+  reversed: "Doubting Your Potential. Insecurities Manifesting Hostility. Tactlessness."
+  keywords: []
+
+- id: 9
+  tsa_title: "The Pearl"
+  rws_title: "The Hermit"
+  element: "Earth"
+  upright: "Brilliance in Introspection. Preparing to Shine. Searching for Inner Gems."
+  reversed: "Withdrawal. Isolation to a Detriment. Irritation at Disruption."
+  keywords: []
+
+- id: 10
+  tsa_title: "The Fates"
+  rws_title: "Wheel of Fortune"
+  element: "Fire"
+  upright: "Cusp of Positive Change. Karma. Turn of Fortunes."
+  reversed: "Repercussions of Poor Behaviour. Karma. The Universe Working Against You."
+  keywords: []
+
+- id: 11
+  tsa_title: "The Scales"
+  rws_title: "Justice"
+  element: "Air"
+  upright: "Equality in Equilibrium. Justice in Action. Balance."
+  reversed: "The Gravity of Grievances. Inequity left Uncorrected. Unfavourable Favouritism."
+  keywords: []
+
+- id: 12
+  tsa_title: "The Mime"
+  rws_title: "The Hanged Man"
+  element: "Water"
+  upright: "Sacrifice to Awaken. Steps Back To Propel Forward. New Perspective."
+  reversed: "Unnecessary Standstill. Fear Of Setbacks. Restrictions Delaying Progress."
+  keywords: []
+
+- id: 13
+  tsa_title: "Birth"
+  rws_title: "Death"
+  element: "Water"
+  upright: "A Fresh Start. Endings as New Beginnings. First Encounters."
+  reversed: "Resisting Change. Obsessing Over The Past. Fearing A New Cycle."
+  keywords: []
+
+- id: 14
+  tsa_title: "Spellcasting"
+  rws_title: "Temperance"
+  element: "Fire"
+  upright: "Trial and Error. Counterbalancing the Scales. Alchemy.  Moderation."
+  reversed: "Misused Magic. Excessive Attention. Tipping The Scales. Lack of Long-Term Vision."
+  keywords: []
+
+- id: 15
+  tsa_title: "Vices"
+  rws_title: "The Devil"
+  element: "Earth"
+  upright: "Instant Gratification. Leveraging Desires. Addiction. Materialism."
+  reversed: "Freedom. Escape Key. Backdoor Outta Hell. Destructive Patterns."
+  keywords: []
+
+- id: 16
+  tsa_title: "The Fortress"
+  rws_title: "The Tower"
+  element: "Fire"
+  upright: "Destructive Egotism. Blindside. Fall of your Empire."
+  reversed: "Crisis Averted. Status Quo. Merit Maintained."
+  keywords: []
+
+- id: 17
+  tsa_title: "Healing"
+  rws_title: "The Star"
+  element: "Air"
+  upright: "Faith in the Future. Soothing the Spirit. Cosmic Navigation."
+  reversed: "Lured Astray. Darkness Enclosing. Remaining Lost."
+  keywords: []
+
+- id: 18
+  tsa_title: "Illusion"
+  rws_title: "The Moon"
+  element: "Water"
+  upright: "Light Playing Tricks. Discerning Reality. Circumstances Not As They Appear. "
+  reversed: "Blocked From Truth. Psychological Blackmail. Insanity. Deception."
+  keywords: []
+
+- id: 19
+  tsa_title: "Soul"
+  rws_title: "The Sun"
+  element: "Fire"
+  upright: "Brilliant Optimism. Reflecting Good Vibes. Yes."
+  reversed: "Depression. Loss of Light. Loss of Joy."
+  keywords: []
+
+- id: 20
+  tsa_title: "Awakening"
+  rws_title: "Judgement"
+  element: "Fire"
+  upright: "Reckoning. Final Decisions. Reflection."
+  reversed: "Becoming Stuck. No Chance to Renew. No Escape from the Past."
+  keywords: []
+
+- id: 21
+  tsa_title: "The Universe"
+  rws_title: "The World"
+  element: "Earth"
+  upright: "Endless Timelines. Presence in the Present. Unfinished Projects."
+  reversed: "Completion. Destination of the Journey. Finish lines."
+  keywords: []

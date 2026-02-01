@@ -1,0 +1,63 @@
+// src/services/readingPromptBuilder.js
+
+export function buildRetrievalQueryText({
+  userQuestionText,
+  spreadNameText,
+  cardLinesText,
+}) {
+  const retrievalQueryLines = [];
+
+  if (userQuestionText) retrievalQueryLines.push(`User question: ${userQuestionText}`);
+  if (spreadNameText) retrievalQueryLines.push(`Spread: ${spreadNameText}`);
+  if (cardLinesText.length > 0) retrievalQueryLines.push(`Cards: ${cardLinesText.join(", ")}`);
+
+  retrievalQueryLines.push(
+    "Retrieve: card meanings, position meanings, spread rules, and practical advice in Ali Bird's tone."
+  );
+
+  return retrievalQueryLines.join("\n");
+}
+
+export function buildUserPromptText({
+  userQuestionText,
+  spreadNameText,
+  cardLinesText,
+  formattedContextText,
+}) {
+  const userPromptLines = [];
+
+  userPromptLines.push("READING INPUTS");
+  userPromptLines.push(`Question: ${userQuestionText || "(none provided)"}`);
+  userPromptLines.push(`Spread: ${spreadNameText || "(none provided)"}`);
+
+  userPromptLines.push("Cards:");
+  if (cardLinesText.length > 0) {
+    for (const cardLine of cardLinesText) {
+      userPromptLines.push(`- ${cardLine}`);
+    }
+  } else {
+    userPromptLines.push("- (none provided)");
+  }
+
+  userPromptLines.push("");
+  userPromptLines.push("CONTEXT");
+  userPromptLines.push(formattedContextText || "(no context retrieved)");
+
+  return userPromptLines.join("\n");
+}
+
+export function formatRetrievedKnowledgeChunksForPrompt(retrievedKnowledgeChunks) {
+  if (!Array.isArray(retrievedKnowledgeChunks) || retrievedKnowledgeChunks.length === 0) {
+    return "";
+  }
+
+  return retrievedKnowledgeChunks
+    .map((knowledgeChunk, index) => {
+      const chunkHeaderLine =
+        `[#${index + 1}] ${knowledgeChunk.path} ` +
+        `(similarity: ${knowledgeChunk.similarityScore.toFixed(3)})`;
+
+      return `${chunkHeaderLine}\n${knowledgeChunk.text}`;
+    })
+    .join("\n\n---\n\n");
+}

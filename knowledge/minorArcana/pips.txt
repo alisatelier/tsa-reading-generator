@@ -1,0 +1,89 @@
+KNOWLEDGE TYPE: pip_numbers
+PURPOSE:
+- Provide the core archetype for pip numbers One through Ten.
+- When interpreting a pip card, combine:
+  (1) Suit archetype + (2) Pip number archetype (upright or reversed).
+
+UPRIGHT PIPS:
+
+ONE
+- Beginnings.
+- The potential is infinite.
+
+TWO
+- Choices.
+- Intuition will guide the way.
+
+THREE
+- Growth.
+- One must be raised to rise.
+
+FOUR
+- Manifestation.
+- Lead yourself to your dreams.
+
+FIVE
+- Loss.
+- Finding gratitude to heal.
+
+SIX
+- Epiphany.
+- You are in the flow.
+
+SEVEN
+- Resilience.
+- Adversity must be overcome.
+
+EIGHT
+- Transcendence.
+- Greater heights await.
+
+NINE
+- Integration.
+- Achievements have unlocked.
+
+TEN
+- Completion.
+- You have arrived.
+
+REVERSED PIPS:
+
+ONE (REVERSED)
+- Hesitation.
+- The journey must begin.
+
+TWO (REVERSED)
+- Indecision.
+- Blocking the path’s potential.
+
+THREE (REVERSED)
+- Agendas.
+- A hidden cost to expand.
+
+FOUR (REVERSED)
+- Illusion.
+- Your dreams are out of touch.
+
+FIVE (REVERSED)
+- Shock.
+- The fortress is crumbling.
+
+SIX (REVERSED)
+- Conceal.
+- Others may seek your knowing.
+
+SEVEN (REVERSED)
+- Resistance.
+- Adversity must be overcome.
+
+EIGHT (REVERSED)
+- Stagnation.
+- You have reached a plateau.
+
+NINE (REVERSED)
+- Setback.
+- The strides you’ve gained are lost.
+
+TEN (REVERSED)
+- Completion.
+- But not in the way you hoped.

@@ -1,0 +1,15 @@
+POSITION KEY: lesson
+POSITION NAME: Lesson
+
+Meaning:
+- What this goal is teaching you about yourself.
+- The growth edge you’re building (patience, courage, discernment, boundaries, trust, discipline).
+- How to integrate the learning so progress becomes sustainable.
+
+How to interpret:
+- Name the “becoming” that is happening alongside the doing.
+- Offer a reflection that helps the user embody the lesson.
+
+Tone rules:
+- Encouraging and compassionate.
+- Keep it actionable: a lesson should lead to a practice or mindset.

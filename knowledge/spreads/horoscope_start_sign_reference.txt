@@ -1,0 +1,31 @@
+REFERENCE: Horoscope Start Sign (Date → Zodiac Season)
+
+Purpose:
+- Determine the Start Sign for the Horoscope / Year-Ahead spread.
+- The Start Sign is the zodiac season that matches the date the reading is pulled.
+- Position #1 = Start Sign, then move forward through the zodiac in order.
+
+Zodiac order:
+Aries → Taurus → Gemini → Cancer → Leo → Virgo → Libra → Scorpio → Sagittarius → Capricorn → Aquarius → Pisces
+
+Approximate zodiac season date ranges (Western / Tropical):
+- Aries: March 21 – April 19
+- Taurus: April 20 – May 20
+- Gemini: May 21 – June 20
+- Cancer: June 21 – July 22
+- Leo: July 23 – August 22
+- Virgo: August 23 – September 22
+- Libra: September 23 – October 22
+- Scorpio: October 23 – November 21
+- Sagittarius: November 22 – December 21
+- Capricorn: December 22 – January 19
+- Aquarius: January 20 – February 18
+- Pisces: February 19 – March 20
+
+Examples:
+- If the pull date is January 31, Start Sign = Aquarius.
+- If the pull date is April 10, Start Sign = Aries.
+
+Notes:
+- These date ranges are standard approximations. If you prefer cusp nuance, keep the rule simple:
+  use the range above consistently so the system behaves predictably.

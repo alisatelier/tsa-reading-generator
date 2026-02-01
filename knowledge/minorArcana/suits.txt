@@ -1,0 +1,58 @@
+KNOWLEDGE TYPE: pip_suits
+PURPOSE:
+- Provide the core archetype for each suit.
+- When interpreting a pip card, combine:
+  (1) Suit archetype + (2) Pip number archetype (+ reversal if reversed).
+
+SUIT: Sparks
+ARCHEtype NAME: The Soul
+ASSOCIATIONS:
+- Creativity
+- Ambition
+- Dreams
+- Passion projects
+- Dharma
+- The work that confirms our place in the world
+INTERPRETATION NOTES:
+- Sparks speaks to creative life force, inspiration, purpose, and forward drive.
+- When Sparks is challenging, it can show burnout, impatience, ego, or chasing validation instead of true calling.
+
+SUIT: Tears
+ARCHETYPE NAME: The Heart
+ASSOCIATIONS:
+- Emotions
+- Connection
+- Psychic gifts
+- Clairsentience
+- The feeling of our inner knowing
+- The cosmic cords that connect us all
+INTERPRETATION NOTES:
+- Tears speaks to emotional truth, intimacy, sensitivity, and what you feel beneath words.
+- When Tears is challenging, it can show overwhelm, projection, attachment, or outsourcing emotional safety.
+
+SUIT: Soil
+ARCHETYPE NAME: The Hands
+ASSOCIATIONS:
+- Assets
+- The self
+- Harvest
+- Tangible returns
+- Material gains
+- Growth
+- What you can hold in two hands
+INTERPRETATION NOTES:
+- Soil speaks to body, resources, money, stability, time, and what becomes real through effort.
+- When Soil is challenging, it can show scarcity, overwork, hoarding, stagnation, or misaligned priorities.
+
+SUIT: Whispers
+ARCHETYPE NAME: The Mind
+ASSOCIATIONS:
+- Intellect
+- Interactions
+- Inner journeys
+- Communication
+- Intended messages
+- Conflict (internal and with others)
+INTERPRETATION NOTES:
+- Whispers speaks to thoughts, language, perception, and the stories shaping your choices.
+- When Whispers is challenging, it can show rumination, miscommunication, avoidance, defensiveness, or mental spirals.
