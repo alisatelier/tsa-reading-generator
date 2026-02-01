@@ -15,17 +15,24 @@ export async function ollamaChat({ model, messages, stream = false }) {
   return r.json();
 }
 
-export async function ollamaEmbed({ model, input }) {
-  const r = await fetch(`${OLLAMA_BASE_URL}/api/embeddings`, {
+export async function ollamaGenerate({ model, system, prompt, options = {}, stream = false }) {
+  const r = await fetch(`${OLLAMA_BASE_URL}/api/generate`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ model, prompt: input }),
+    body: JSON.stringify({
+      model,
+      system,
+      prompt,
+      stream,
+      options,
+    }),
   });
 
   if (!r.ok) {
     const text = await r.text();
-    throw new Error(`Ollama /api/embeddings failed (${r.status}): ${text}`);
+    throw new Error(`Ollama /api/generate failed (${r.status}): ${text}`);
   }
 
   return r.json();
 }
+

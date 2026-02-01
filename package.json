@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  
   "scripts": {
-  "dev": "nodemon src/server.js",
-  "start": "node src/server.js",
-  "rag:index": "node src/rag/buildIndex.js"
-},
+    "manifests:build": "node scripts/manifests/buildManifests.js",
+    "manifests:tarot": "node scripts/manifests/buildTarotManifest.js"
+    "dev": "node src/server.js"
+  },
+
 
   "type": "module",
 

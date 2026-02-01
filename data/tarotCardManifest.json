@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-01T00:00:00.000Z",
+  "knowledgeRoot": "knowledge",
+  "cardsById": {
+    "7": {
+      "cardPath": "knowledge/cards/07_the_marionette.txt"
+    },
+    "22": {
+      "cardPath": "knowledge/cards/22_one_of_sparks.txt",
+      "suitPath": "knowledge/minorArcana/suits/sparks.txt",
+      "pipPath": "knowledge/minorArcana/pips/one.txt"
+    }
+  },
+  "cardsByCanonicalName": {
+    "the marionette": "7",
+    "one of sparks": "22"
+  }
+}
